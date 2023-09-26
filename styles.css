@@ -43,6 +43,10 @@ svg {
     height: 64px;
 }
 
+.js-todo-input {
+    caret-color: black;
+}
+
 .todo-list {
     list-style: none;
     margin-bottom: 20px;
